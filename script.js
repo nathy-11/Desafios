@@ -17,16 +17,16 @@
     //         console.log("Está frio!");
 //     }
 
-// IF / ELSE IF / ELSE
-// let nota = 8;
+//  IF / ELSE IF / ELSE
+//  let nota = 8;
 
-// if(nota > 6) {
-//     console.log("Aprovado(a)!");
-// } else if (nota >= 5) {
-//     console.log("Está de recuperação");
-// } else {
+//  if(nota > 6) {
+//      console.log("Aprovado(a)!");
+//  } else if (nota >= 5) {
+//      console.log("Está de recuperação");
+//  } else {
 //     console.log("Reprovado(a)!");
-// }
+//  }
 
 // OPERADOR TERNÁRIO / IF TERNÁRIO
 // let saldo = 90; 
@@ -71,21 +71,21 @@
 // CONDIÇÃO ANINHADA
 // MULTIPLAS VERIFICAÇÕES
 
-let hora = 8 ;
-let diaDaSemana = "terça";
+// let hora = 8 ;
+// let diaDaSemana = "terça";
 
-if(hora >= 6 && hora < 12) {
-    console.log("Bom dia!");
-} else {
-    if(hora >= 12 && hora < 18) {
-        if(diaDaSemana === "segunda") {
-            console.log("Boa tarde! Ótima semana.")
-        } else {
-            console.log("Boa tarde!");
-        }
-    } else {
-        console.log("Boa noite!");
-    }
-}
+// if(hora >= 6 && hora < 12) {
+//     console.log("Bom dia!");
+// } else {
+//     if(hora >= 12 && hora < 18) {
+//         if(diaDaSemana === "segunda") {
+//             console.log("Boa tarde! Ótima semana.")
+//         } else {
+//             console.log("Boa tarde!");
+//         }
+//     } else {
+//         console.log("Boa noite!");
+//     }
+// }
 
 

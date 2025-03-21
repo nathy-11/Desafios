@@ -51,13 +51,34 @@
     //         }
     //       }
 
-          //Sistema de login simples
-          let usuario = prompt ("Insira o seu nome de usuário: ")
-          let senha = prompt ("Insira sua senha: ") 
-          if(usuario === "admin" && senha === "1234" ) {
-          console.log("Login bem-sucedido")
+          // //Sistema de login simples
+          // let usuario = prompt ("Insira o seu nome de usuário: ")
+          // let senha = prompt ("Insira sua senha: ") 
+          // if(usuario === "admin" && senha === "1234" ) {
+          // console.log("Login bem-sucedido")
           
-          } else {
-            console.log("Acesso negado")
-          }
-    
+          // } else {
+          //   console.log("Acesso negado")
+          // }
+     
+    // Maior entre três números
+          // let n1 = parseInt(prompt("Digite o primeiro número"))
+          // let n2 = parseInt (prompt("Digite o segundo número"))
+          // let n3 = parseInt (prompt("Digite o terceiro número"))
+          // if (n1>n2) {
+          //   if (n1>n3){
+          //     console.log("Número maior é o: " + n1)
+          //   }
+          // }else if(n2>n3){
+          //   console.log("O maior é o: " + n2)
+          // } else {
+          //   console.log("O maior é o número: " +n3)
+          // }
+      
+          
+        
+
+
+
+
+
