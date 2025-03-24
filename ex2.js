@@ -9,6 +9,16 @@
 //  }
 
 //Soma dos primeiros N números naturais
-let numero = prompt("Insira um número: ")
+ let numero = prompt("Insira um número: ")
+let soma = 0;
 
-while
+for(let i = 1; i <= numeros; i ++) {
+    soma += i
+}
+console.log("A soma dos primeiros N é: , soma");
+
+// Exibir os números pares de 1 a 50
+let numeros = 2
+while (numero <= 50)
+console.log("Os números pares de 1 a 50 são: ")
+numero += 50
